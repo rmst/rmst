@@ -20,8 +20,7 @@ Code accompanying our Real-Time Reinforcement Learning paper with implementation
 **[DDPG](https://github.com/rmst/ddpg)** (2016)
 The first open reproduction of the Deep Deterministic Policy Gradient algorithm by Lillicrap, et al., 2015, in both MATLAB with manually-coded gradient computation and also the brand new (at the time) Tensorflow automatic differentiation framework.
 
+<br>
 
-<div style="text-align: center; font-size: 7.2pt; opacity: 0.6; margin-top: 18px; margin-bottom: 18px;">
-		For more see <a href="https://github.com/rmst?tab=repositories">/Repositories</a>
-</div>
+*For more see [all repositories](https://github.com/rmst?tab=repositories)*
 
