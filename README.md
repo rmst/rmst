@@ -20,3 +20,9 @@ Code accompanying our [Real-Time Reinforcement Learning](https://arxiv.org/abs/1
 
 **[DDPG](https://github.com/rmst/ddpg)** (2016)
 The first open reproduction of the [Deep Deterministic Policy Gradient](https://arxiv.org/abs/1509.02971) algorithm by Lillicrap, et al., 2015, in both MATLAB with manually-coded gradient computation and also the brand new (at the time) Tensorflow automatic differentiation framework.
+
+
+### Hobby Projects (*Selection*)
+
+**[Yoke](https://github.com/rmst/yoke)** (2018-2021)
+Android app turning the phone into a gamepad for Windows/Mac/Linux. Low latency communication over Wifi via UDP.
