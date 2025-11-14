@@ -17,8 +17,11 @@ A Python package to control the Unity game engine. It automatically translates f
 **[RTRL](https://github.com/rmst/rtrl)** (2019)
 Code accompanying our Real-Time Reinforcement Learning paper with implementations of Real-Time Actor-Critic and Soft Actor-Critic in Python and Pytorch.
 
-**[Avenue](https://github.com/elementai/avenue)** (2017-2019)
-A fast, easy-to-use, high-fidelity car simulator based on the Unity game engine.
-
 **[DDPG](https://github.com/rmst/ddpg)** (2016)
 The first open reproduction of the Deep Deterministic Policy Gradient algorithm by Lillicrap, et al., 2015, in both MATLAB with manually-coded gradient computation and also the brand new (at the time) Tensorflow automatic differentiation framework.
+
+
+<div style="text-align: center; font-size: 7.2pt; opacity: 0.6; margin-top: 18px; margin-bottom: 18px;">
+		For more see <a href="https://github.com/rmst?tab=repositories">/Repositories</a>
+</div>
+
