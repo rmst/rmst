@@ -1,4 +1,4 @@
-## [simonramstedt.com](https://simonramstedt.com)
+## [Simon Ramstedt](https://simonramstedt.com)
 
 
 ### Open-Source Projects (*Selection*)
