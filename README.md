@@ -1,7 +1,7 @@
-## [https://simonramstedt.com](https://simonramstedt.com)
+## [simonramstedt.com](https://simonramstedt.com)
 
 
-### Open-Source Projects
+### Open-Source Projects (*Selection*)
 
 **[Jix](https://github.com/rmst/jix)** (2025-now)
 A tool enabling functional, declarative system and development configurations to be written in JavaScript. Internally, it constructs a Merkle-DAG of configuration units called "effects" (a generalization of [Nix](https://en.wikipedia.org/wiki/Nix_(package_manager)) derivations). It's more powerful than YAML-based configuration tools (e.g. Ansible, docker-compose) and more ergonomic and flexible than [Nix](https://en.wikipedia.org/wiki/Nix_(package_manager)).
