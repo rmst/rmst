@@ -7,7 +7,7 @@
 A lightweight, Node.js-compatible JavaScript runtime built on [Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard)'s [QuickJS](https://github.com/bellard/quickjs) and [libuv](https://libuv.org).
 
 **[Pinano](https://github.com/rmst/pinano)** (2026-now)
-An open-source coding-agent TUI centered on autonomous parallel work. It provides a session overview, rewind and branching, sandboxed tool environments, and first-class git worktree workflows. It supports local models and major AI APIs, has zero npm dependencies, and runs on Node.js and Qn.
+Open-source agent framework for persistent, parallel autonomous work, with a particular focus on software development. Provides sandboxed tool execution, resumable sessions, rewind and branching, and first-class git worktree workflows. Supports local models and major AI APIs.
 
 **[Jix](https://github.com/rmst/jix)** (2024-now)
 A tool enabling functional, declarative system and development configurations to be written in JavaScript. Internally, it constructs a Merkle-DAG of configuration units called "effects" (a generalization of [Nix](https://en.wikipedia.org/wiki/Nix_(package_manager)) derivations). It's more powerful than YAML-based configuration tools (e.g. Ansible, docker-compose) and more ergonomic and flexible than [Nix](https://en.wikipedia.org/wiki/Nix_(package_manager)).
