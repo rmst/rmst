@@ -6,7 +6,7 @@
 **[Qn](https://github.com/rmst/qn)** (2025-now)
 A lightweight, Node.js-compatible JavaScript runtime built on [Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard)'s [QuickJS](https://github.com/bellard/quickjs) and [libuv](https://libuv.org).
 
-**[Pinano](https://github.com/rmst/pinano)** (2026-now)
+**[Cerex](https://github.com/rmst/cerex)** (2026-now)
 Open-source agent framework for persistent, parallel autonomous work, with a particular focus on software development. Provides sandboxed tool execution, resumable sessions, rewind and branching, and first-class git worktree workflows. Supports local models and major AI APIs.
 
 **[Jix](https://github.com/rmst/jix)** (2024-now)
